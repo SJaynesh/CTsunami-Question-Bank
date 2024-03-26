@@ -46,5 +46,27 @@
 > 3. Explain the key differences between Git and GitHub.
 > 4. What are the different types of GitHub repositories (public, private)?
 
+<br><br>
 
+## `Operator & Expression`
 
+<br>
+
+> 1. What is Operator ? And How many types of operators come?
+> 2. What is Unary Operator ? Explain in detail with unary operator types and examples.
+> 3. What is difference between Post Increment/Decrement and Pre Increment/Decrement.
+> 4. What is Binary Operator ? Explain binary operators types in detail.
+> 5. Differentiate between unary, and binary operators with examples.
+> 6. Explain Operator Precedence by solving any expression with appropriate steps.
+> 7. What is Type Conversation ? How many types of type conversation ?
+> 8. Explain Implicit type conversation in details with examples.
+> 9. Explain Explicit type conversation in detail with examples.
+> 10. Differentiate between implicit and explicit type conversation.
+
+<br><br>
+
+## `Control Stracture`
+
+<br>
+
+> 1.
